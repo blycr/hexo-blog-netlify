@@ -1,7 +1,5 @@
 ---
 title: Test post
-date: 2022-04-24 11:56:24
-updated: 2022-04-24 11:56:24
 tags:
   - test
 categories:
@@ -10,6 +8,9 @@ keywords:
   - test
 excerpt: test page
 comments: true
+abbrlink: a680b3ff
+date: 2022-04-24 11:56:24
+updated: 2022-04-24 11:56:24
 ---
 This is a **test page**
 
