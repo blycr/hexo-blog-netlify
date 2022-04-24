@@ -2,6 +2,7 @@
 title: Hello World
 comments: true
 abbrlink: 4a17b156
+index_img: https://picsum.photos/600/400?random=4.webp
 date: 2022-04-24 11:52:37
 updated: 2022-04-24 11:52:37
 ---
