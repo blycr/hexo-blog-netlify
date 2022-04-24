@@ -42,7 +42,7 @@
 
 使用以下部署按钮启动并运行您自己的存储库副本：
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/leicancun/hexo-blog-netlify&stack=cms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/blycr/hexo-blog-netlify&stack=cms)
 
 部署到 Netlify 按钮会将此存储库的副本克隆到您自己的 GitHub 或 GitLab 帐户。
 
