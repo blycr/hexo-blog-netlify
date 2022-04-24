@@ -6,39 +6,39 @@ index:
   banner_img: https://cdn.jsdelivr.net/gh/blycr/picbed@master/img/04189_sunsetinenoshima_1920x1080.jpg
   banner_img_height: 100
   slogan:
-    text: ""
+    text: Never feels good , Never feels better
 post:
-  banner_img: /images/uploads/mmexport1602581319886.webp
+  banner_img: https://cdn.jsdelivr.net/gh/blycr/picbed@master//img/04182_manhattanbeforethestorm_1920x1080.jpg
   banner_img_height: 70
-  default_index_img: /images/uploads/wallhaven-g8wvm7.webp
+  default_index_img: https://cdn.jsdelivr.net/gh/blycr/picbed@master/img/04195_mysticfalls_1920x1080.jpg
 archive:
-  banner_img: /images/uploads/1616421595370-wallhaven-q6ov7d.jpg
+  banner_img: https://cdn.jsdelivr.net/gh/blycr/picbed@master/img/04194_pagview_1920x1080.jpg
   banner_img_height: 80
   subtitle: null
 category:
-  banner_img: /images/uploads/1616421818281-wallhaven-zm93dj.jpg
+  banner_img: https://cdn.jsdelivr.net/gh/blycr/picbed@master/img/04186_tokyotower_1920x1080.jpg
   banner_img_height: 80
   subtitle: null
 tag:
-  banner_img: /images/uploads/1616421669417-wallhaven-1kkm2g.jpg
+  banner_img: https://cdn.jsdelivr.net/gh/blycr/picbed@master/img/04201_inbloom_1920x1080.jpg
   banner_img_height: 80
   subtitle: null
 about:
-  banner_img: /images/uploads/wallhaven-pkkr2.webp
+  banner_img: https://cdn.jsdelivr.net/gh/blycr/picbed@master/img/04199_lonelyisland_1920x1080.jpg
   banner_img_height: 80
   subtitle: null
-  avatar: /img/avatar.png
+  avatar: http://q1.qlogo.cn/g?b=qq&nk=2221415280&s=640
   name: Fluid
   intro: An elegant theme for Hexo
 links:
-  banner_img: /images/uploads/1616421416500-wallhaven-rddv31.jpg
+  banner_img: https://cdn.jsdelivr.net/gh/blycr/picbed@master/img/04197_zionwaterfallafterthestorm_1920x1080.jpg
   banner_img_height: 80
   subtitle: null
   items:
     - title: Fluid Repo
       intro: 主题 GitHub 仓库
       link: https://github.com/fluid-dev/hexo-theme-fluid
-      avatar: /img/favicon.png
+      avatar: https://cdn.jsdelivr.net/gh/blycr/picbed@master/img/favicon.png
     - title: 暮雨千泷
       intro: 青天白日梦神仙
       link: https://www.myql.xyz
