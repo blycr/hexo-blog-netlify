@@ -876,9 +876,9 @@ about:
   icons:
     - { class: 'iconfont icon-github-fill', link: 'https://github.com/blycr', tip: 'GitHub' }
     - { class: 'iconfont icon-qq-fill', link: 'https://qm.qq.com/cgi-bin/qm/qr?k=rbY_8O0FTHFC1P1yc9VSTluIMX_Du0v5&noverify=0', tip: 'QQ' }
-    - { class: 'iconfont icon-wechat-fill', qrcode: 'https://cdn.jsdelivr.net/gh/blycr/picbed@master/img/QQ_Image_1650780538686.jpg' }
+    - { class: 'iconfont icon-wechat-fill', qrcode: '/img/wechat.jpg' }
     - { class: 'iconfont icon-bilibili', link: 'https://space.bilibili.com/10787122', tip:'Bilibili' }
-    - { class: 'iconfont icon-coolapk', qrcode: 'https://cdn.jsdelivr.net/gh/blycr/picbed@master/img/QQ_Image_1650781624242.jpg' }
+    - { class: 'iconfont icon-coolapk', qrcode: '/img/coolapk.jpg' }
 
 
 #---------------------------
