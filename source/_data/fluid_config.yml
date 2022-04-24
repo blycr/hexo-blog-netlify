@@ -10,7 +10,7 @@ index:
 post:
   banner_img: https://cdn.jsdelivr.net/gh/blycr/picbed@master//img/04182_manhattanbeforethestorm_1920x1080.jpg
   banner_img_height: 70
-  default_index_img: https://picsum.photos/1366/768?random=2.webp
+  # default_index_img: https://picsum.photos/1366/768?random=2.webp
 archive:
   banner_img: https://cdn.jsdelivr.net/gh/blycr/picbed@master/img/04194_pagview_1920x1080.jpg
   banner_img_height: 80
